@@ -1,0 +1,6 @@
+metric,value
+test_rmse_log,1.0215686945172644
+test_rmse_var,0.0006348473201189429
+test_mae_var,0.0003806602946902935
+test_qlike,0.42860521355021564
+n_test_forecasts,469.0
