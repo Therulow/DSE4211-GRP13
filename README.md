@@ -31,7 +31,6 @@ DSE4211-GRP13/
 |   |-- garch.ipynb                     # GARCH benchmark 
 |   |-- baseline_egarch.ipynb           # EGARCH benchmark
 |   |-- garch.csv                       # GARCH test forecasts
-|   
 |-- SVR/
 |   |-- svr-l_update.ipynb              # Regime-unaware linear SVR benchmark
 |   `-- results/svr_test_results.csv
